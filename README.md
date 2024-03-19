@@ -1,8 +1,7 @@
 ## Welcome! Eu sou o Octávio.
 
- -  <h3> SOBRE: </h3> <p>Sou estudante e me graduei pela ETEC FERRUCIO HUMBERTO GAZZETTA no curso Desenvolvimento de Sistemas integrado ao ensino médio, tenho conhecimento em linguagens de programação como Java, Javascript, TypeScript e SQL, além de ferramentas, e frameworks como React, Node, Express, MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi.
+ -  <h3> SOBRE: </h3> <p>Sou estudante e me graduei pela ETEC FERRUCIO HUMBERTO GAZZETTA no curso Desenvolvimento de Sistemas integrado ao ensino médio, tenho conhecimento em linguagens de programação como Java, Javascript, TypeScript e SQL, além de ferramentas, e frameworks como React, Node, Express, MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi. Atualmente busco aprimorar meus conhecimentos na área.
 </p>
-<p>Atualmente busco aprimorar meus conhecimentos na área</p>
  
 
  -  <h3> TECNOLOGIAS: </h3> 

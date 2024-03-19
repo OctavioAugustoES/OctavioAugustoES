@@ -1,4 +1,10 @@
 ## Welcome! Eu sou o Octávio.
+
+ -  <h3> SOBRE: </h3> <p>Sou estudante e me graduei pela ETEC FERRUCIO HUMBERTO GAZZETTA no curso Desenvolvimento de Sistemas integrado ao ensino médio, tenho conhecimento em linguagens de programação como Java, Javascript, TypeScript e SQL, além de ferramentas, e frameworks como React, Node, Express, MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi.
+</p>
+<p>Atualmente busco aprimorar meus conhecimentos na área</p>
+ 
+
  -  <h3> TECNOLOGIAS: </h3> 
 <div style="display: inline_block">
   <img align="center" alt="tavio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

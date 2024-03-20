@@ -3,7 +3,6 @@
  -  <h3> SOBRE: </h3> <p>Sou estudante e me graduei pela ETEC FERRUCIO HUMBERTO GAZZETTA no curso Desenvolvimento de Sistemas integrado ao ensino médio, tenho conhecimento em linguagens de programação como Java, Javascript, TypeScript e SQL, além de ferramentas, e frameworks como React, Node, Express, MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi. Atualmente busco aprimorar meus conhecimentos na área.
 </p>
  
-
  -  <h3> TECNOLOGIAS: </h3> 
 <div style="display: inline_block">
   <img align="center" alt="tavio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,11 +16,11 @@
   <img align="center" alt="tavio-postgre" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="tavio-google" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="right" alt="tavio-gif" height="160" width="190" src="https://media0.giphy.com/media/v12uvDC2P3bVK/giphy.webp?cid=ecf05e4798vc20uu2i0ft0xivq23tpvslrkitp81eqt1zdwi&ep=v1_gifs_related&rid=giphy.webp&ct=s">
- 
 </div>
 
 ##
 
+-  <h3> CONTATOS: </h3> 
 <div>
   <a href = "mailto:tavioaugus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/octávio-augustoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

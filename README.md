@@ -21,7 +21,7 @@
 ##
 
 - <h3>STATS:</h3>
-![Octávio GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavioAugustoES&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioAugustoES&layout=compact)
+![Octávio GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavioAugustoES&show_icons=true&theme=github_dark)
 
  ##
 

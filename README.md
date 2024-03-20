@@ -4,6 +4,9 @@
 </p>
  
  -  <h3> TECNOLOGIAS: </h3> 
+ ![Octávio GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavioAugustoES&show_icons=true&theme=github_dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioAugustoES&layout=compact)
+ 
 <div style="display: inline_block">
   <img align="center" alt="tavio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tavio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

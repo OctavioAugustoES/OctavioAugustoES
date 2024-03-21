@@ -15,7 +15,6 @@
   <img align="center" alt="tavio-SQL" height="67" width="77" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="tavio-postgre" height="57" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="tavio-google" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg">
-  <img align="right" alt="tavio-gif" height="160" width="190" src="https://media0.giphy.com/media/v12uvDC2P3bVK/giphy.webp?cid=ecf05e4798vc20uu2i0ft0xivq23tpvslrkitp81eqt1zdwi&ep=v1_gifs_related&rid=giphy.webp&ct=s">
 </div>
 
 ##

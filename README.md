@@ -2,6 +2,12 @@
 
 <div align="center">
 <h3> SOBRE </h3> <p>Sou estudante e me graduei pela ETEC FERRUCIO HUMBERTO GAZZETTA no curso Desenvolvimento de Sistemas integrado ao ensino médio, tenho conhecimento em linguagens de programação como Java, Javascript, TypeScript e SQL, além de ferramentas, e frameworks como React, Node, Express, MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi. Atualmente busco aprimorar meus conhecimentos na área.
+ -  <h3> CONTATOS </h3> 
+ <div>
+  <a href = "mailto:tavioaugus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/octávio-augustoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+ 
 </p>
 </div>
 
@@ -34,14 +40,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OctavioAugustoES/OctavioAugustoES/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
- ##
-
--  <h3> CONTATOS: </h3> 
-<div>
-  <a href = "mailto:tavioaugus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/octávio-augustoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 
 

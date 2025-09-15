@@ -29,13 +29,4 @@
 
 ##
 
-- <h3>STATS:</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioAugustoES&layout=compact&icons=true&theme=transparent)
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctavioAugustoES/OctavioAugustoES/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctavioAugustoES/OctavioAugustoES/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
 
